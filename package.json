@@ -1,6 +1,6 @@
 {
   "name": "coffeekraken-s-back-to-top-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide an easy to use 'back to top' component that let you total control over the display",
   "main": "dist/index.js",
   "homepage": "https://coffeekraken.io",

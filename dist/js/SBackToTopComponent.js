@@ -281,7 +281,7 @@ var SBackToTopComponent =
             return '\n      '
               .concat(
                 componentNameDash,
-                ' {\n        display : none;\n        position: fixed;\n        bottom: 0; right: 0;\n        opacity: 0;\n        pointer-events: none;\n        transform: translateY(100%);\n        transition: all 0.4s cubic-bezier(1,0,0,1) 0s;\n      }\n      '
+                ' {\n        display : none;\n        position: fixed;\n        bottom: 0; right: 0;\n        opacity: 0.0001;\n        pointer-events: none;\n        transform: translateY(100%);\n        transition: all 0.4s cubic-bezier(1,0,0,1) 0s;\n      }\n      '
               )
               .concat(
                 componentNameDash,

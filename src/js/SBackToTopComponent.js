@@ -81,7 +81,7 @@ export default class SBackToTopComponent extends SWebComponent {
         display : none;
         position: fixed;
         bottom: 0; right: 0;
-        opacity: 0;
+        opacity: 0.0001;
         pointer-events: none;
         transform: translateY(100%);
         transition: all 0.4s cubic-bezier(1,0,0,1) 0s;
